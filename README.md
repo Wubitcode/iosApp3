@@ -52,6 +52,9 @@ The RewardManager automatically evaluates structural item completion states and 
      7 – 9 Items      20% OFF DISCOUNT CODE UNLOCKED!
      10 Items         20% OFF CODE + $5,000 GRAND PRIZE DRAW ENTRY!
 
+### Splash Screen
+![splash](screenshots/splash.png)
+
 ### Home Page
 ![home](screenshots/home.png)
 
@@ -62,7 +65,7 @@ The RewardManager automatically evaluates structural item completion states and 
 ![selected](screenshots/selected.png)
 
 ### Target Detail Screen
-![detail](screenshots/detaile.png)
+![detail](screenshots/detail.png)
 
 ### Reward Screen
 ![reward](screenshots/reward.png)
